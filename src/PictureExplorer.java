@@ -797,6 +797,7 @@ public class PictureExplorer implements MouseMotionListener, ActionListener, Mou
   
   /**
    * Test Main.  It will explore the beach 
+   * Testing comment
    */  
   public static void main( String args[])
   {
